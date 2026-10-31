@@ -2,8 +2,6 @@
 
 Variante de la app para televisores LG de 2014 a 2017, con navegador y Node más viejos que los de webOS 4.
 
-**Créditos:** basado en el port de webOS de **CristianDev**, que autorizó su uso y modificación. Proyecto no oficial, sin relación con Xuper TV ni con LG. No incluye contenido audiovisual.
-
 ## Qué cambia respecto a la versión normal
 
 | | Versión normal | Esta (legacy) |
