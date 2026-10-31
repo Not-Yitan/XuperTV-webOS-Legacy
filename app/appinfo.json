@@ -1,0 +1,18 @@
+{
+  "id": "com.notyitan.tv.legacy",
+  "version": "1.0.0",
+  "vendor": "Not-Yitan",
+  "type": "web",
+  "main": "index.html",
+  "title": "Xuper TV (TV antiguas)",
+  "icon": "images/icon.png",
+  "largeIcon": "images/icon-large.png",
+  "resolution": "1920x1080",
+  "bgColor": "#000000",
+  "bgImage": "",
+  "spinnerOnLaunch": false,
+  "uiRevision": 2,
+  "disableBackHistoryAPI": true,
+  "requiredACG": [],
+  "requiredPermissions": []
+}
